@@ -10,4 +10,4 @@
      
      
 ```
-[`Onesheet`](./docs/onesheet.md)
+[`Onesheet`](./docs/onesheet.md) - [`Commit Naming Convention`](./docs/cnc.md)
